@@ -1,0 +1,28 @@
+/*
+ Theme Name: Advocator
+ Theme URI: http://rescuethemes.com
+ Author: Rescue Themes
+ Author URI: http://rescuethemes.com
+ Description: A theme for organizations that do good.
+ Version: 1.6.4
+ Tags: white, green, custom-menu, translation-ready, threaded-comments, theme-options, responsive-layout, two-columns, custom-colors, featured-images
+ License: GNU General Public License version 2.0
+ License URI: http://www.gnu.org/licenses/gpl-2.0.html
+	
+ Designed & Developed by Rescue Themes
+ All files, unless otherwise stated, are released under the GNU General Public License
+ version 2.0 (http://www.gnu.org/licenses/gpl-2.0.html)
+*/
+
+ @import url('css/style.css');
+
+/*
+	All default styles are located in /css/style.css
+
+	The default styles above are applied before any CSS you may enter below.
+	You can enter your custom CSS here but creating a child theme 
+	would be better so that your customizations don't get 
+	overwritten by a theme update.
+
+	--> http://codex.wordpress.org/Child_Themes <--
+*/
